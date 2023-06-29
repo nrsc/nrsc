@@ -1,6 +1,6 @@
-- I’m @nrsc
-- Synaptic physiology and neuroscience
-- 
+
+Synaptic physiology and neuroscience
+
 
 <!---
 nrsc/nrsc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
